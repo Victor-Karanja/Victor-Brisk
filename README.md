@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Victor-Brisk
+- 👀 I’m interested in data science, mechanical engineering design and programming
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on mechanical engineering tasks
+- 📫 You can reach me by dropping a mail @karanjavictor24@gmail.com
+- End
